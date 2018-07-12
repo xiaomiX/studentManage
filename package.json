@@ -1,0 +1,26 @@
+{
+  "name": "studentManage",
+  "version": "1.0.0",
+  "description": "学生后台管理系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaomiX/studentManage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaomiX/studentManage/issues"
+  },
+  "homepage": "https://github.com/xiaomiX/studentManage#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.1.1",
+    "route": "^0.2.5",
+    "xtpl": "^3.4.0"
+  }
+}
