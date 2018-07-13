@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/xiaomiX/studentManage#readme",
   "dependencies": {
+    "captchapng": "0.0.1",
     "express": "^4.16.3",
+    "express-session": "^1.15.6",
     "mongodb": "^3.1.1",
     "route": "^0.2.5",
     "xtpl": "^3.4.0"
